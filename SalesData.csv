@@ -1,0 +1,31 @@
+OrderID,Date,ProductName,Category,Channel,Revenue,Quantity,CustomerID
+O001,2025-01-01,Shampoo,Grooming,Website,610,1,C104
+O002,2025-01-02,Hair Gel,Haircare,Flipkart,304,2,C110
+O003,2025-01-03,Body Lotion,Grooming,Flipkart,1431,2,C111
+O004,2025-01-04,Face Wash,Skincare,Website,465,4,C112
+O005,2025-01-05,Beard Oil,Bodycare,Amazon,1213,4,C115
+O006,2025-01-06,Shampoo,Grooming,Website,625,3,C110
+O007,2025-01-07,Hair Gel,Grooming,Amazon,259,4,C104
+O008,2025-01-08,Face Wash,Bodycare,Amazon,363,1,C119
+O009,2025-01-09,Face Wash,Haircare,Flipkart,815,4,C115
+O010,2025-01-10,Face Wash,Skincare,Amazon,825,1,C107
+O011,2025-01-11,Beard Oil,Haircare,Flipkart,703,3,C103
+O012,2025-01-12,Beard Oil,Haircare,Amazon,259,4,C116
+O013,2025-01-13,Beard Oil,Haircare,Flipkart,400,4,C114
+O014,2025-01-14,Beard Oil,Haircare,Website,357,4,C119
+O015,2025-01-15,Shampoo,Haircare,Amazon,1196,2,C115
+O016,2025-01-16,Beard Oil,Bodycare,Amazon,1332,1,C101
+O017,2025-01-17,Shampoo,Skincare,Flipkart,1307,2,C117
+O018,2025-01-18,Body Lotion,Bodycare,Website,437,3,C101
+O019,2025-01-19,Beard Oil,Haircare,Amazon,1098,4,C106
+O020,2025-01-20,Body Lotion,Grooming,Website,1261,4,C120
+O021,2025-01-21,Beard Oil,Grooming,Website,691,3,C102
+O022,2025-01-22,Face Wash,Grooming,Flipkart,1446,4,C106
+O023,2025-01-23,Hair Gel,Skincare,Website,281,3,C115
+O024,2025-01-24,Hair Gel,Haircare,Flipkart,922,2,C105
+O025,2025-01-25,Face Wash,Bodycare,Flipkart,1170,2,C102
+O026,2025-01-26,Shampoo,Grooming,Website,1338,2,C102
+O027,2025-01-27,Face Wash,Bodycare,Website,578,3,C113
+O028,2025-01-28,Face Wash,Bodycare,Flipkart,1243,3,C108
+O029,2025-01-29,Beard Oil,Bodycare,Flipkart,463,4,C119
+O030,2025-01-30,Hair Gel,Grooming,Amazon,1143,2,C115
